@@ -6,6 +6,7 @@ import Doctor from "./components/Doctor";
 import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
 import Appointment from "./components/Appointment";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/contact" element={<Contact/>}/>
         <Route path="/appointment" element={<Appointment />} />
       </Routes>
+      <Footer/>
     </>
   );
 }

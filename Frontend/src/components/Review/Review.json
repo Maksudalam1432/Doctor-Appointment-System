@@ -1,0 +1,40 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Rahul Sharma",
+      "address": "Jaipur, Rajasthan",
+      "title": "Excellent Hospital Service",
+      "description": "The doctors were very professional and caring. The staff supported us throughout the treatment. Highly recommended.",
+      "rating": 5,
+      "pic": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Anjali Verma",
+      "address": "Delhi, India",
+      "title": "Very Good Experience",
+      "description": "Clean environment, experienced doctors, and fast service. Overall a very good experience.",
+      "rating": 4,
+      "pic": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mohit Singh",
+      "address": "Mumbai, Maharashtra",
+      "title": "Supportive Staff",
+      "description": "Nurses and staff were extremely polite and helpful. Doctors explained everything clearly.",
+      "rating": 5,
+      "pic": "https://randomuser.me/api/portraits/men/67.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pooja Mehta",
+      "address": "Ahmedabad, Gujarat",
+      "title": "Good but Can Improve",
+      "description": "Medical care was good but waiting time was slightly longer. Otherwise satisfied.",
+      "rating": 3,
+      "pic": "https://randomuser.me/api/portraits/women/52.jpg"
+    }
+  ]
+}

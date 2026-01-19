@@ -3,7 +3,7 @@ import logo from "../image/logo.png";
 
 const NavbarMenu = () => {
   return (
-    <div className="bg-white shadow-md" >
+    <div className="border-2 bg-white shadow-md" >
       <div className="w-full flex items-start justify-between px-6 py-2">
 
         <div className="flex items-start gap-3">

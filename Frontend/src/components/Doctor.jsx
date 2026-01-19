@@ -1,8 +1,12 @@
 import React from 'react'
+import { BiLogoGmail } from "react-icons/bi";
+
 
 function Doctor() {
   return (
-    <div>Doctor</div>
+    <div>
+      doctor
+    </div>
   )
 }
 

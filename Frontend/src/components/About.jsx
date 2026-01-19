@@ -1,8 +1,11 @@
 import React from 'react'
+import Shortintro from './static/ShortIntro/Shortintro'
 
 function About() {
   return (
-    <div>About</div>
+    <div>
+      <Shortintro/>
+    </div>
   )
 }
 
